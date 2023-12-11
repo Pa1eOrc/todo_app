@@ -1,9 +1,7 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+- This app was created by referring to an example page using React with TypeScript. The app was created with Context and API methods like 'GET,' 'POST,' 'PATCH,' and 'DELETE.
 
-### Available Scripts
+- Referance page [the working example](https://mate-academy.github.io/react_todo-app-with-api/)
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- Demo link to the page: [DEMO LINK](https://Pa1eOrc.github.io/todo_app/)
