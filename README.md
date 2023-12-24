@@ -1,6 +1,8 @@
 # Todo App
 
-- This app was created by referring to an example page using React with TypeScript. The app was created with Context, CSS Transition Group and API methods like 'GET,' 'POST,' 'PATCH,' and 'DELETE.
+- This app was created by referring to an example page using React with TypeScript.
+- The app was created with Context, CSS Transition Group and API methods like 'GET,' 'POST,' 'PATCH,' and 'DELETE.
+- All changes that users make will be saved on the server.
 
 - Referance page [the working example](https://mate-academy.github.io/react_todo-app-with-api/)
 
